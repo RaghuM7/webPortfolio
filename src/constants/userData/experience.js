@@ -6,33 +6,21 @@ export const experiences = [
     companyLogo: "/logos/companies/Fifth.svg",
     companyName: "Fifth Third Bank",
     designation: "Software Engineer",
-    dateFrom: "Nov 2024",
+    dateFrom: "Sep 2024",
     dateTo: "Present",
     city: "Dallas",
     country: "USA",
     description: [
-      "Improved Fifth Third’s internal compliance tracking system by rebuilding the UI with React.js and Redux, reducing processing delays by 35%.",
-      "Launched a real-time event-logging system leveraging Spring AOP and React dashboards with standardized error codes, reducing support ticket volume by 50%.",
+      "Improved Fifth Third’s internal compliance tracking system by rebuilding the UI with React.js and Redux, reducing processing delays by 35%."
+      "Designed real-time UI alerting system for monitoring credit spread thresholds and risk events, boosting trading desk reactivity by 30%."
+      "Developed real-time dashboards for credit risk monitoring using React.js and WebSocket APIs, enabling traders to visualize exposure thresholds and act on margin calls 15% faster."
+      "Built scalable infrastructure for credit risk models and compliance workflows, reducing latency in P&L report generation by 35%."
+      "Integrated GraphQL endpoints with advanced auth layers (JWT, OAuth2) to streamline access to sensitive interest rate trading data."
       "Implemented a testing strategy using JUnit and Mockito for unit testing and integration testing within Scrum teams and agile sprints, resulting in a 30% reduction in post-release defects."
     ],
   },
   {
     id: 2,
-    companyLogo: "/logos/companies/Sign.png",
-    companyName: "Signify Health",
-    designation: "Software Engineer",
-    dateFrom: "Sep 2024",
-    dateTo: "Nov 2024",
-    city: "Remote",
-    country: "USA",
-    description: [
-      "Designed server-side logic using Spring microservice design patterns and Oracle DB, coded user workflows, and improved system response time by 60%",
-      "Enhanced core tool capabilities by managing Spring Data JDBC and Hibernate JPA, leading to a 40% increase in user satisfaction.",
-      "Integrated secure GraphQL endpoints with JWT authentication and OAuth2 for robust data access control, achieving a 75% reduction in unauthorized access."
-    ],
-  },
-  {
-    id: 3,
     companyLogo: "/logos/colleges/OSU.png",
     companyName: "Oklahoma State University",
     designation: "Full Stack Developer",
@@ -48,7 +36,7 @@ export const experiences = [
   },
 
   {
-    id: 4,
+    id: 3,
     companyLogo: "/logos/companies/tata.png",
     companyName: "Tata Communications",
     designation: "Software Development Engineer",

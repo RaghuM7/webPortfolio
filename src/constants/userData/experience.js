@@ -11,11 +11,11 @@ export const experiences = [
     city: "Dallas",
     country: "USA",
     description: [
-      "Improved Fifth Third’s internal compliance tracking system by rebuilding the UI with React.js and Redux, reducing processing delays by 35%."
-      "Designed real-time UI alerting system for monitoring credit spread thresholds and risk events, boosting trading desk reactivity by 30%."
-      "Developed real-time dashboards for credit risk monitoring using React.js and WebSocket APIs, enabling traders to visualize exposure thresholds and act on margin calls 15% faster."
-      "Built scalable infrastructure for credit risk models and compliance workflows, reducing latency in P&L report generation by 35%."
-      "Integrated GraphQL endpoints with advanced auth layers (JWT, OAuth2) to streamline access to sensitive interest rate trading data."
+      "Improved Fifth Third’s internal compliance tracking system by rebuilding the UI with React.js and Redux, reducing processing delays by 35%.",
+      "Designed real-time UI alerting system for monitoring credit spread thresholds and risk events, boosting trading desk reactivity by 30%.",
+      "Developed real-time dashboards for credit risk monitoring using React.js and WebSocket APIs, enabling traders to visualize exposure thresholds and act on margin calls 15% faster.",
+      "Built scalable infrastructure for credit risk models and compliance workflows, reducing latency in P&L report generation by 35%.",
+      "Integrated GraphQL endpoints with advanced auth layers (JWT, OAuth2) to streamline access to sensitive interest rate trading data.",
       "Implemented a testing strategy using JUnit and Mockito for unit testing and integration testing within Scrum teams and agile sprints, resulting in a 30% reduction in post-release defects."
     ],
   },

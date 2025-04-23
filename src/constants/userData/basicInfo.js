@@ -15,4 +15,4 @@ export const aboutMe = {
     "passionate about tech and building realiable applications. Proficient in Java, Spring Boot, React JS and cloud technologies, driving problem-solving software solutions",
 };
 export const hireEmail = "raghumedarametla9191@gmail.com";
-export const resumeLink = "https://drive.google.com/file/d/1AKq3phrh62yH2kRRegr2pTB-FqNYBBEq/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1JkIVdxaoPdenlH9HsZp2_D4n10qA1tUd/view?usp=sharing";

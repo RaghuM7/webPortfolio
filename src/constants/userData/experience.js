@@ -3,7 +3,7 @@
 export const experiences = [
   {
     id: 1,
-    companyLogo: "/logos/companies/cira.jpeg",
+    companyLogo: "/logos/companies/ciratek_logo.jpeg",
     companyName: "Cira Tek Inc",
     designation: "Software Engineer",
     dateFrom: "Sep 2024",

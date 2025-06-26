@@ -3,20 +3,21 @@
 export const experiences = [
   {
     id: 1,
-    companyLogo: "/logos/companies/Fifth.svg",
-    companyName: "Fifth Third Bank",
+    companyLogo: "/logos/companies/cira.jpeg",
+    companyName: "Cira Tek Inc",
     designation: "Software Engineer",
     dateFrom: "Sep 2024",
     dateTo: "Present",
     city: "Dallas",
     country: "USA",
     description: [
-      "Improved Fifth Third’s internal compliance tracking system by rebuilding the UI with React.js and Redux, reducing processing delays by 35%.",
-      "Designed real-time UI alerting system for monitoring credit spread thresholds and risk events, boosting trading desk reactivity by 30%.",
-      "Developed real-time dashboards for credit risk monitoring using React.js and WebSocket APIs, enabling traders to visualize exposure thresholds and act on margin calls 15% faster.",
-      "Built scalable infrastructure for credit risk models and compliance workflows, reducing latency in P&L report generation by 35%.",
-      "Integrated GraphQL endpoints with advanced auth layers (JWT, OAuth2) to streamline access to sensitive interest rate trading data.",
-      "Implemented a testing strategy using JUnit and Mockito for unit testing and integration testing within Scrum teams and agile sprints, resulting in a 30% reduction in post-release defects."
+"Engineered RESTful microservices (Spring Boot + Kafka) to process credit data, leveraging multi-threaded message consumers to reduce trade monitoring latency from 500ms to 300ms.",
+"Developed and consumed REST APIs for inter-service communication; currently exploring gRPC-based services to improve latency and cross-language communication between microservices.",
+"Refactored real-time data pipelines (MyBatis + Oracle PL/PgSQL), cutting query runtime by 35% and enabling ~20% more transactions/hour in risk analysis.",
+"Reduced API response time by 75% by integrating Redis caching and refactoring complex PostgreSQL joins, improving portfolio risk dashboard performance.",
+"Led testing initiatives using JUnit and Mockito, resulting in a 30% reduction in post-release by collaborating with product owners and QA teams in agile sprints.",
+"Engineered compliance and risk monitoring services that processed real-time credit and trade data, simulating financial exposure evaluation understanding for market-risk engines." 
+
     ],
   },
   {
